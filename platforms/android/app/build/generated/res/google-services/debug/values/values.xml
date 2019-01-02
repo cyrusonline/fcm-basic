@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">864658888501-og2strc4vuh9ppfppjt22nd8ti8c4cuq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vuefirestore-425e2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">864658888501</string>
+    <string name="google_api_key" translatable="false">AIzaSyBUn7fYazn0r6axQ8yImkej3rRwIGRGK9Q</string>
+    <string name="google_app_id" translatable="false">1:864658888501:android:370c91879d0a77ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUn7fYazn0r6axQ8yImkej3rRwIGRGK9Q</string>
+    <string name="google_storage_bucket" translatable="false">vuefirestore-425e2.appspot.com</string>
+</resources>

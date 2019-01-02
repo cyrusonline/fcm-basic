@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "864658888501",
+    "firebase_url": "https://vuefirestore-425e2.firebaseio.com",
+    "project_id": "vuefirestore-425e2",
+    "storage_bucket": "vuefirestore-425e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864658888501:android:370c91879d0a77ac",
+        "android_client_info": {
+          "package_name": "com.phonegap.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864658888501-og2strc4vuh9ppfppjt22nd8ti8c4cuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUn7fYazn0r6axQ8yImkej3rRwIGRGK9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
